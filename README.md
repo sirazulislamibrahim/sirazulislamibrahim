@@ -6,7 +6,6 @@
 
 I'm a .NET Developer who is passionate about making error free software with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I work with windows form, web forms, ASP.NET MVC, ASP.NET MVC Core, ASP.NET MVC Core API
 
-<--Skills: ASP.NET / ASP.NET Core/ ASP.NET Core API / Angular / REACT / JavaScript / Jquery / Ajax / JSON / HTML / CSS / Bootstrap / Tailwind CSS-->
 
 
 <h3 align="left">Languages and Tools:</h3>
